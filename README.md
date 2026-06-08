@@ -63,4 +63,4 @@ Le résultat du diagramme de Bode est exporté dans un fichier `bode.csv`
 
 ## Auteur
 
-Amine Hamdoun — BUT2 GEII, IUT Jean Monnet Saint-Etienne
+Amine Hamdoun — BUT2 GEII, IUT Jean Monnet Saint-Etienne et stagiaire à l'ISTP Dpt SEE
