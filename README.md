@@ -61,6 +61,10 @@ puis renseigner les adresses dans `main.cpp` avant compilation.
 Le résultat du diagramme de Bode est exporté dans un fichier `bode.csv`
 (colonnes : fréquence Hz, tension Vs V, gain dB).
 
+
+Vous pouvez ainsi tracé un diagramme de bode avec matplotlib et pyhton avec les données en format csv ( ajout du programme de Bode ultérieurement ) 
+
+
 ## Auteur
 
 Amine Hamdoun — BUT2 GEII, IUT Jean Monnet Saint-Etienne et stagiaire à l'ISTP Dpt SEE
